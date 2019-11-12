@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/cq-tagging-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/ezmorph.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/gson-2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/gson-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/httpclient-cache-4.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jackrabbit-jcr2dav-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jackrabbit-jcr2spi-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jackrabbit-jcr-commons-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jackrabbit-spi-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jackrabbit-spi2dav-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jackrabbit-spi-commons-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jackrabbit-webdav-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jackson-mapper-asl-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/jcr-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/JSON parser v1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/json-jena-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/json-lib-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/slf4j-api-1.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/slf4j-log4j12-1.5.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/org.apache.sling.api-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/cq-dam-api-5.8.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/samikjai/Documents/MyJabberFiles/sdhurjet@cisco.com/lib/lib/httpmime-4.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
